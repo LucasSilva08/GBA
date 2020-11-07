@@ -1,0 +1,15 @@
+En muchas PC, al cargar este rom puede que te salga la pantalla en blanco. 
+Lo que tienes que haces para solucionar este problema es lo siguiente:
+
+1) Abre tu emulador VisualBoy Advance.
+2) Busca el menú de "Options" (opciones).
+3) Dentro del menú Options, ve a "Emulator".
+4) Dentro de "Emulator", ve a "Save Type".
+5) Finalmente, dentro de "Save Type", elige la opción "Flash 128k".
+
+Con esto, el problema queda solucionado. Ahora sólo inicia el rom.
+
+¡Qué lo disfrutes!
+
+Equipo de Poke & Play.-
+www.pokeyplay.com
